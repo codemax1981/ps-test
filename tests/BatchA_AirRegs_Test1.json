@@ -1,0 +1,17 @@
+﻿{
+  "test_id": "BATest1_AR",
+  "test_name": "Batch A - Air Regulations Midterm",
+  "description": "Midterm assessment covering CAR Sections 1-5.",
+  "subject": "Air Regulations",
+  "time_limit_seconds": 7200,
+  "question_ids": [
+    "AR001",
+    "AR002",
+    "AR003"
+  ],
+  "target_groups": [
+    "BatchA"
+  ],
+  "valid_from_iso": "2024-08-22T09:00:00Z",
+  "valid_until_iso": "2024-08-25T17:00:00Z"
+}
