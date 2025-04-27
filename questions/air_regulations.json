@@ -1,0 +1,47 @@
+﻿[
+  {
+    "id": "AR001",
+    "text": "What is the minimum visibility required for VFR flight in Class G airspace below 3,000 ft AMSL or 1,000 ft AGL, whichever is higher?",
+    "options": [
+      "1500 meters",
+      "5 kilometers",
+      "8 kilometers",
+      "10 kilometers"
+    ],
+    "correct_option_index": 1,
+    "explanation": "According to CAR Section 9 Series L Part IV, the minimum flight visibility for VFR in Class G airspace below 3000ft AMSL or 1000ft AGL is 5 km.",
+    "reference": "CAR Section 9 Series L Part IV",
+    "difficulty": "Medium",
+    "media_file": null
+  },
+  {
+    "id": "AR002",
+    "text": "Which document must a pilot carry on all flights?",
+    "options": [
+      "Pilot License",
+      "Medical Certificate",
+      "Photo ID",
+      "All of the above"
+    ],
+    "correct_option_index": 3,
+    "explanation": "Pilots are required to carry their license, valid medical certificate, and a government-issued photo ID while exercising the privileges of their license.",
+    "reference": "Aircraft Rules, 1937 - Rule 38B",
+    "difficulty": "Easy",
+    "media_file": null
+  },
+  {
+    "id": "AR003",
+    "text": "What does the signal shown in the image (a flashing white light directed towards an aircraft in flight) signify?",
+    "options": [
+      "Return for landing",
+      "Airport unsafe, do not land",
+      "Cleared to land",
+      "Exercise extreme caution"
+    ],
+    "correct_option_index": 0,
+    "explanation": "A flashing white light from ATC directed at an aircraft in flight signals the pilot to return to the starting point on the aerodrome (return for landing).",
+    "reference": "CAR Section 9 Series B Part I - Appendix A",
+    "difficulty": "Medium",
+    "media_file": "atc_signal_flash_white.png"
+  }
+]
