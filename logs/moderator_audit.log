@@ -1,5 +1,0 @@
-﻿2024-08-21 14:30:15 UTC - mod_admin - ACTION: ADD_USER - DETAILS: username=new_student03, group=BatchB
-2024-08-21 14:35:02 UTC - mod_admin - ACTION: MODIFY_QUESTION - DETAILS: question_id=NAV025, subject=navigation
-2024-08-21 14:40:00 UTC - mod_admin - ACTION: CREATE_TEST - DETAILS: test_id=BatchB_Nav_Quiz1, target_groups=['BatchB']
-2024-08-22 10:05:11 UTC - mod_admin - ACTION: DELETE_USER - DETAILS: username=old_student99
-2024-08-22 11:00:00 UTC - mod_admin - ACTION: MODIFY_CREDENTIALS - DETAILS: username=student01, field=password
