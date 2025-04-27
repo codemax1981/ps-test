@@ -1,0 +1,1934 @@
+[
+  {
+    "id": "GENNAV001",
+    "subject": "General Navigation",
+    "chapter": "General Navigation",
+    "question_text": "Assuming mid-latitudes (40° to 50° N/S). At which time of year is the relationship between the length of day and night, as well as the rate of change of declination of the sun, changing at the greatest rate?",
+    "options": [
+      "Spring equinox and autumn equinox.",
+      "Summer solstice and winter solstice.",
+      "Summer solstice and spring equinox.",
+      "Winter solstice and autumn equinox."
+    ],
+    "correct_answer": "Spring equinox and autumn equinox.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "GENNAV002",
+    "subject": "General Navigation",
+    "chapter": "General Navigation",
+    "question_text": "In its path around the Sun, the axis of the Earth has an inclination:",
+    "options": [
+      "varying with the season of the year.",
+      "varying between zero and 23° 27 with the plane of the pat.",
+      "of 23º 27 with the plane of Equator.",
+      "of 66º 33 with the plane of the path"
+    ],
+    "correct_answer": "of 66º 33 with the plane of the path",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "GENNAV003",
+    "subject": "General Navigation",
+    "chapter": "General Navigation",
+    "question_text": "Observed from a position on the surface of the Earth the heavenly bodies seems to:",
+    "options": [
+      "move from East to West.",
+      "not change their relative positions on the sky.",
+      "move from West to East on the southern hemisphere.",
+      "move from East to West on the northern hemisphere."
+    ],
+    "correct_answer": "move from East to West.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "GENNAV004",
+    "subject": "General Navigation",
+    "chapter": "General Navigation",
+    "question_text": "Which of the following statements concerning ionospheric propagation errors is true?",
+    "options": [
+      "They are significantly reduced when a second frequency is available.",
+      "They are eliminated using differential techniques.",
+      "Transmitting the state of the ionosphere to the receivers enables the error to reduced to less than one metre.",
+      "They are significantly reduced by the use of RAIM."
+    ],
+    "correct_answer": "They are significantly reduced when a second frequency is available.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "GENNAV005",
+    "subject": "General Navigation",
+    "chapter": "General Navigation",
+    "question_text": "The mean sun:",
+    "options": [
+      "Moves with constant speed along the celestial equator.",
+      "Is only of interest to users of astronomical navigation.",
+      "Is the middle position of the sun.",
+      "Has a declination equal to the apparent sun."
+    ],
+    "correct_answer": "Moves with constant speed along the celestial equator.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "GENNAV006",
+    "subject": "General Navigation",
+    "chapter": "General Navigation",
+    "question_text": "What is the highest latitude listed below at which the sun will reach an altitude of 90° above the horizon at some time during the year?",
+    "options": [
+      "0°",
+      "23°",
+      "66°",
+      "45°"
+    ],
+    "correct_answer": "23°",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "GENNAV007",
+    "subject": "General Navigation",
+    "chapter": "General Navigation",
+    "question_text": "The length of a apparent solar day is not constant because:",
+    "options": [
+      "The plane of the Ecliptic and the plane of the Equator are inclined to each other.",
+      "The Suns declination is not constant.",
+      "The Earths speed of revolution in its orbit varies continuously, due to the orbit being elliptical.",
+      "The Earths speed of rotation is not the same at all latitudes."
+    ],
+    "correct_answer": "The plane of the Ecliptic and the plane of the Equator are inclined to each other.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "GENNAV008",
+    "subject": "General Navigation",
+    "chapter": "General Navigation",
+    "question_text": "The planets move around the Sun:",
+    "options": [
+      "In circular orbits.",
+      "At constant angular speed.",
+      "At constant velocity.",
+      "In elliptical orbits."
+    ],
+    "correct_answer": "In elliptical orbits.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "GENNAV009",
+    "subject": "General Navigation",
+    "chapter": "General Navigation",
+    "question_text": "At what approximate date is the earth furthest from the sun (aphelion)?",
+    "options": [
+      "Beginning of January.",
+      "Beginning of July.",
+      "End of December.",
+      "End of September."
+    ],
+    "correct_answer": "Beginning of July.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "GENNAV010",
+    "subject": "General Navigation",
+    "chapter": "General Navigation",
+    "question_text": "Seasons are due to the:",
+    "options": [
+      "Earths elliptical orbit around the Sun.",
+      "inclination of the polar axis with the ecliptic plane.",
+      "Earths rotation on its polar axis.",
+      "variable distance between Earth and Sun."
+    ],
+    "correct_answer": "inclination of the polar axis with the ecliptic plane.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "GENNAV011",
+    "subject": "General Navigation",
+    "chapter": "General Navigation",
+    "question_text": "The direction of the Earths rotation on its axis is such that:",
+    "options": [
+      "An observer on the surface of the earth always will face West when observing sunrise.",
+      "Any point on the surface of the Earth will move westward.",
+      "Observed from the point above the North Pole, the rotation is counter-clockwise.",
+      "Any point on the surface of the Earth will move eastward."
+    ],
+    "correct_answer": "Any point on the surface of the Earth will move eastward.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "GENNAV012",
+    "subject": "General Navigation",
+    "chapter": "General Navigation",
+    "question_text": "The suns declination is:",
+    "options": [
+      "The distance between the sun and the horizon.",
+      "The suns position relative to the plane of the Equator.",
+      "The angular distance between the sun and the celestial North Pole.",
+      "The suns position relative to the ecliptic."
+    ],
+    "correct_answer": "The suns position relative to the plane of the Equator.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "GENNAV013",
+    "subject": "General Navigation",
+    "chapter": "General Navigation",
+    "question_text": "When the length of the day is measured with reference to the passage of the apparent sun:",
+    "options": [
+      "The length of the day will vary in the course of the year.",
+      "The length of the day will be the same once every month.",
+      "The length of the day will vary with the latitude of the observer.",
+      "The length of the days, as indicated by our watches, will be exactly equal."
+    ],
+    "correct_answer": "The length of the day will vary in the course of the year.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "GENNAV014",
+    "subject": "General Navigation",
+    "chapter": "General Navigation",
+    "question_text": "The term sidereal is used:",
+    "options": [
+      "to describe a situation or relationship concerning the stars.",
+      "to describe conditions with reference to the moon.",
+      "to describe the time interval between two successive transits of the real apparent sun at the same meridian.",
+      "to describe how two positions of heavenly bodies are located sideways on the sky."
+    ],
+    "correct_answer": "to describe a situation or relationship concerning the stars.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "GENNAV015",
+    "subject": "General Navigation",
+    "chapter": "General Navigation",
+    "question_text": "What is the approximate date of perihelion, when the Earth is nearest to the Sun?",
+    "options": [
+      "Beginning of July.",
+      "End of March.",
+      "Beginning of January.",
+      "End of December."
+    ],
+    "correct_answer": "Beginning of January.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "GENNAV016",
+    "subject": "General Navigation",
+    "chapter": "General Navigation",
+    "question_text": "Sun rise at 50° N 072° E is at 0254 on 25th January. What time will the sun rise at 50° N 007° E on that day?",
+    "options": [
+      "0254 UTC",
+      "0714 UTC",
+      "2154 UTC",
+      "0514 UTC"
+    ],
+    "correct_answer": "0714 UTC",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "GENNAV017",
+    "subject": "General Navigation",
+    "chapter": "General Navigation",
+    "question_text": "the compression factor of the earth:",
+    "options": [
+      "is about 1:300.",
+      "all 3 answers are correct.",
+      "is so small that it may be ignored when making ordinary maps and charts.",
+      "makes the difference between the polar diameter and the equatorial diameter about 22 NM."
+    ],
+    "correct_answer": "all 3 answers are correct.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "GENNAV018",
+    "subject": "General Navigation",
+    "chapter": "General Navigation",
+    "question_text": "The angle between the true great-circle track and the true rhumb-line track joining the following points: A (60° S 165° W) B (60° S 177° E), at the place of departure A, is:",
+    "options": [
+      "5.2°",
+      "7.8°",
+      "15.6°",
+      "9°"
+    ],
+    "correct_answer": "7.8°",
+    "difficulty": "Hard"
+  },
+  {
+    "id": "GENNAV019",
+    "subject": "General Navigation",
+    "chapter": "General Navigation",
+    "question_text": "An aircraft departing A(N40º 00´ E080º 00´ ) flies a constant true track of 270º at a ground speed of 120 kt. What are the coordinates of the position reached in 6 HR?",
+    "options": [
+      "N40º 00´ E070º 30´ .",
+      "N40º 00´ E064º 20´ .",
+      "N40º 00´ E068º 10´ .",
+      "N40º 00´ E060º 00´ ."
+    ],
+    "correct_answer": "N40º 00´ E068º 10´ .",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "GENNAV020",
+    "subject": "General Navigation",
+    "chapter": "General Navigation",
+    "question_text": "The total length of the 30° Latitude is:",
+    "options": [
+      "10.800 km",
+      "18.706 km",
+      "18.706 nm",
+      "10.800 nm"
+    ],
+    "correct_answer": "18.706 nm",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "GENNAV021",
+    "subject": "General Navigation",
+    "chapter": "General Navigation",
+    "question_text": "Latitude may be defined as:",
+    "options": [
+      "The displacement of a place from equator.",
+      "The angular distance measured along a meridian from the equator to a parallel of the latitude, measured in degrees, minutes, and seconds and named North or South.",
+      "The angle between the plane of the equator and the plane of the parallel of latitude.",
+      "The distance from equator to a place on the surface of the earth."
+    ],
+    "correct_answer": "The angular distance measured along a meridian from the equator to a parallel of the latitude, measured in degrees, minutes, and seconds and named North or South.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "GENNAV022",
+    "subject": "General Navigation",
+    "chapter": "General Navigation",
+    "question_text": "You are flying from A (50N 10W) to B (58N 02E). What is the Convergency between A and B?",
+    "options": [
+      "6,5°",
+      "6,8°",
+      "9,7°",
+      "10,2°"
+    ],
+    "correct_answer": "9,7°",
+    "difficulty": "Hard"
+  },
+  {
+    "id": "GENNAV023",
+    "subject": "General Navigation",
+    "chapter": "General Navigation",
+    "question_text": "The convergency of meridians:",
+    "options": [
+      "Is the distance between the meridians in degrees, minutes, and seconds.",
+      "Is independent of latitude and longitude.",
+      "Is the angular difference between the meridians.",
+      "Is greater using rhumb line track than using great circle."
+    ],
+    "correct_answer": "Is the angular difference between the meridians.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "GENNAV024",
+    "subject": "General Navigation",
+    "chapter": "General Navigation",
+    "question_text": "The maximum difference between geocentric and geodetic latitude occurs at about:",
+    "options": [
+      "0° North and South (equator).",
+      "60° North and South.",
+      "90° North and South.",
+      "45° North and South."
+    ],
+    "correct_answer": "45° North and South.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "GENNAV025",
+    "subject": "General Navigation",
+    "chapter": "General Navigation",
+    "question_text": "The poles on the surface of the earth may be defined as:",
+    "options": [
+      "The points from where the distance to the equator is equal.",
+      "The points on the surface of the earth where all meridians intersect at right angles.",
+      "The points where the earths axis of rotation cuts the surface of the earth.",
+      "The points at which the vertical lines runs through the centre of the earth."
+    ],
+    "correct_answer": "The points where the earths axis of rotation cuts the surface of the earth.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "GENNAV026",
+    "subject": "General Navigation",
+    "chapter": "General Navigation",
+    "question_text": "What is the UTC time of sunrise in Vancouver, British Columbia, Canada (49N 123 30 W) on the 6th December?",
+    "options": [
+      "0724 UTC",
+      "0738 UTC",
+      "2324 UTC",
+      "1552 UTC"
+    ],
+    "correct_answer": "1552 UTC",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "GENNAV027",
+    "subject": "General Navigation",
+    "chapter": "General Navigation",
+    "question_text": "What is the convergency at 5000N between the meridians 10500W and 14500W on the earth?",
+    "options": [
+      "40,0°",
+      "50,0°",
+      "32,1°",
+      "30,6°"
+    ],
+    "correct_answer": "30,6°",
+    "difficulty": "Hard"
+  },
+  {
+    "id": "GENNAV028",
+    "subject": "General Navigation",
+    "chapter": "General Navigation",
+    "question_text": "Parallels of latitude, except the equator are:",
+    "options": [
+      "are neither Rhumb lines nor Great circles.",
+      "both Rhumb lines and Great circles.",
+      "Great circles.",
+      "Rhumb lines."
+    ],
+    "correct_answer": "Rhumb lines.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "GENNAV029",
+    "subject": "General Navigation",
+    "chapter": "General Navigation",
+    "question_text": "What is the highest latitude on the Earth at which the Sun can be vertically overhead?",
+    "options": [
+      "90 deg.",
+      "23 deg.",
+      "66 deg.",
+      "45 deg."
+    ],
+    "correct_answer": "23 deg.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "GENNAV030",
+    "subject": "General Navigation",
+    "chapter": "General Navigation",
+    "question_text": "What is the approximate latitude of the Antarctic Circle?",
+    "options": [
+      "23° S.",
+      "23° N.",
+      "66° N.",
+      "66° S."
+    ],
+    "correct_answer": "66° S.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "GENNAV031",
+    "subject": "General Navigation",
+    "chapter": "General Navigation",
+    "question_text": "A great circle track joins position A (59° S 141° W) and B (61° S 148° W). What is the difference between the great circle track at A and B?",
+    "options": [
+      "It increases by 3° .",
+      "It decreases by 6° .",
+      "It increases by 6° .",
+      "It decreases by 3° ."
+    ],
+    "correct_answer": "It increases by 6° .",
+    "difficulty": "Hard"
+  },
+  {
+    "id": "GENNAV032",
+    "subject": "General Navigation",
+    "chapter": "General Navigation",
+    "question_text": "If an aeroplane was to circle around the Earth following parallel 60° N at a ground speed of 480 kt. In order to circle around the Earth along the equator in the same amount of time, it should fly at a ground speed of:",
+    "options": [
+      "960 kt.",
+      "550 kt.",
+      "480 kt.",
+      "240 kt."
+    ],
+    "correct_answer": "960 kt.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "GENNAV033",
+    "subject": "General Navigation",
+    "chapter": "General Navigation",
+    "question_text": "In which two months of the year is the difference between the transit of the Apparent Sun and Mean Sun across the Greenwich Meridian the greatest?",
+    "options": [
+      "March and September.",
+      "February and November.",
+      "April and August.",
+      "June and December."
+    ],
+    "correct_answer": "February and November.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "GENNAV034",
+    "subject": "General Navigation",
+    "chapter": "General Navigation",
+    "question_text": "A correct definition of longitude is:",
+    "options": [
+      "The arc at equator between the Greenwich meridian and the meridian of the place, measured in degrees, minutes and seconds, named East or West.",
+      "The angle between the Greenwich meridian and the meridian of the place.",
+      "The East-West distance between Greenwich and the place.",
+      "The difference between the Greenwich meridian and the meridian of the place, measured at the centre of the earth."
+    ],
+    "correct_answer": "The arc at equator between the Greenwich meridian and the meridian of the place, measured in degrees, minutes and seconds, named East or West.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "GENNAV035",
+    "subject": "General Navigation",
+    "chapter": "General Navigation",
+    "question_text": "The diameter of the Earth is approximately:",
+    "options": [
+      "40 000 km.",
+      "18 500 km.",
+      "6 350 km.",
+      "12 700 km."
+    ],
+    "correct_answer": "12 700 km.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "GENNAV036",
+    "subject": "General Navigation",
+    "chapter": "General Navigation",
+    "question_text": "The circumference of the parallel of latitude at 60° N is approximately:",
+    "options": [
+      "34 641 NM.",
+      "10 800 NM.",
+      "18 706 NM.",
+      "20 000 NM."
+    ],
+    "correct_answer": "10 800 NM.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "GENNAV037",
+    "subject": "General Navigation",
+    "chapter": "General Navigation",
+    "question_text": "A Parallel of Latitude is a:",
+    "options": [
+      "Rhumb line.",
+      "Great circle.",
+      "Meridian of tangency.",
+      "Small circle."
+    ],
+    "correct_answer": "Small circle.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "GENNAV038",
+    "subject": "General Navigation",
+    "chapter": "General Navigation",
+    "question_text": "An approximate equation for calculating the convergency between two meridians is:",
+    "options": [
+      "Convergency= dlong x sin mean lat.",
+      "Convergency=60 x dlong x cos. lat.",
+      "Convergency= dlat x sin mean long",
+      "Convergency= dlong x cos. lat."
+    ],
+    "correct_answer": "Convergency= dlong x sin mean lat.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "GENNAV039",
+    "subject": "General Navigation",
+    "chapter": "General Navigation",
+    "question_text": "Given: value for the ellipticity of the Earth is 1/297. Earths semi-major axis, as measured at the equator, equals 6378.4 km. What is the semi-minor axis (km) of the earth at the axis of the Poles?",
+    "options": [
+      "6 367.0",
+      "6 399.9",
+      "6 378.4",
+      "6 356.9"
+    ],
+    "correct_answer": "6 356.9",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "GENNAV040",
+    "subject": "General Navigation",
+    "chapter": "General Navigation",
+    "question_text": "The suns declination is on a particular day 12.00 S. Midnight sun may this day be observed:",
+    "options": [
+      "North of 7800N.",
+      "South of 7800S.",
+      "At 7800S only.",
+      "North of 7800S."
+    ],
+    "correct_answer": "South of 7800S.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "GENNAV041",
+    "subject": "General Navigation",
+    "chapter": "General Navigation",
+    "question_text": "The angle between the plane of the Equator and the plane of the Ecliptic is:",
+    "options": [
+      "65.6 deg.",
+      "25.3 deg.",
+      "66.5 deg.",
+      "23.5 deg."
+    ],
+    "correct_answer": "23.5 deg.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "GENNAV042",
+    "subject": "General Navigation",
+    "chapter": "General Navigation",
+    "question_text": "Consider the following statements on longitude.",
+    "options": [
+      "The largest value of longitude is 180º .",
+      "The largest value of change of longitude is 90º .",
+      "The value of longitude will never exceed 90º .",
+      "Longitude is stated in degrees up to 360º ."
+    ],
+    "correct_answer": "The largest value of longitude is 180º .",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "GENNAV043",
+    "subject": "General Navigation",
+    "chapter": "General Navigation",
+    "question_text": "The term Ellipsoid may be used to describe:",
+    "options": [
+      "the movement of the earth around the sun.",
+      "the shape of the ecliptic.",
+      "a great circle on the celestial sphere.",
+      "the shape of the earth."
+    ],
+    "correct_answer": "the shape of the earth.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "GENNAV044",
+    "subject": "General Navigation",
+    "chapter": "General Navigation",
+    "question_text": "A small circle:",
+    "options": [
+      "will always cross equator.",
+      "has a plane that do not pass through the centre of the earth.",
+      "has a plane parallel to the earths axis of rotation.",
+      "will also be a rhumb line."
+    ],
+    "correct_answer": "has a plane that do not pass through the centre of the earth.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "GENNAV045",
+    "subject": "General Navigation",
+    "chapter": "General Navigation",
+    "question_text": "A Rhumb Line is:",
+    "options": [
+      "a line that crosses the equator at a constant angle.",
+      "a line that crosses lines of latitude at a constant angle.",
+      "always a great circle.",
+      "a line that crosses meridians at a constant angle."
+    ],
+    "correct_answer": "a line that crosses meridians at a constant angle.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "GENNAV046",
+    "subject": "General Navigation",
+    "chapter": "General Navigation",
+    "question_text": "When the suns declination is northerly:",
+    "options": [
+      "midnight sun may be observed at the south pole.",
+      "the daylight period is shorter in the southern hemisphere than the northern.",
+      "it is winter on the northern hemisphere.",
+      "the sunrise occurs earlier at southern latitudes than the northern latitudes."
+    ],
+    "correct_answer": "the daylight period is shorter in the southern hemisphere than the northern.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "GENNAV047",
+    "subject": "General Navigation",
+    "chapter": "General Navigation",
+    "question_text": "The shortest distance between 2 point of the surface of the earth is:",
+    "options": [
+      "the arc of a great circle",
+      "a great circle",
+      "Rhumb line.",
+      "half the rhumb line distance."
+    ],
+    "correct_answer": "the arc of a great circle",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "GENNAV048",
+    "subject": "General Navigation",
+    "chapter": "General Navigation",
+    "question_text": "Consider the following statements on the properties of a great circle:",
+    "options": [
+      "The parallels of latitudes are all great circles.",
+      "All 3 answers are correct.",
+      "The great circle will maintain their initial true direction.",
+      "The great circle running through two positions on the surface of the earth, is the shortest distance between these two positions."
+    ],
+    "correct_answer": "The great circle running through two positions on the surface of the earth, is the shortest distance between these two positions.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "GENNAV049",
+    "subject": "General Navigation",
+    "chapter": "General Navigation",
+    "question_text": "The earth may be referred to as:",
+    "options": [
+      "elliptical",
+      "a globe.",
+      "round.",
+      "an oblate spheroid."
+    ],
+    "correct_answer": "an oblate spheroid.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "GENNAV050",
+    "subject": "General Navigation",
+    "chapter": "General Navigation",
+    "question_text": "How many nm are equivalent to 1° of arc of latitude:",
+    "options": [
+      "15 nm",
+      "60 nm",
+      "600 nm",
+      "1 nm"
+    ],
+    "correct_answer": "60 nm",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "GENNAV051",
+    "subject": "General Navigation",
+    "chapter": "General Navigation",
+    "question_text": "At what approximate latitude is the length of one minute of arc along a meridian equal to one NM (1852 m) correct?",
+    "options": [
+      "0°",
+      "30°",
+      "90°",
+      "45°"
+    ],
+    "correct_answer": "45°",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "GENNAV052",
+    "subject": "General Navigation",
+    "chapter": "General Navigation",
+    "question_text": "osition A is at latitude 33º 45N and position B is at latitude 14º 25N. What is the change in latitude between A and B?",
+    "options": [
+      "19º 20",
+      "48º 10",
+      "23º 45",
+      "76º 15"
+    ],
+    "correct_answer": "19º 20",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "GENNAV053",
+    "subject": "General Navigation",
+    "chapter": "General Navigation",
+    "question_text": "If an aircraft flew around the world at latitude 60° N it would cover a distance of:",
+    "options": [
+      "10,800 nm.",
+      "5,400 nm.",
+      "18,700 nm.",
+      "21,600 nm."
+    ],
+    "correct_answer": "10,800 nm.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "GENNAV054",
+    "subject": "General Navigation",
+    "chapter": "General Navigation",
+    "question_text": "The prime meridian is:",
+    "options": [
+      "the meridian running through Greenwich, England.",
+      "the meridian 180 (E/W).",
+      "the meridian having the highest value of longitude.",
+      "the mid meridian on a chart."
+    ],
+    "correct_answer": "the meridian running through Greenwich, England.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "GENNAV055",
+    "subject": "General Navigation",
+    "chapter": "General Navigation",
+    "question_text": "The Equator is:",
+    "options": [
+      "on the surface of the earth and at right angles to the axis of rotation.",
+      "on the surface as a small circle, horizontal to the axis of rotation.",
+      "on the surface parallel to the magnetic equator.",
+      "on the surface of the earth, being a circle whose plane is perpendicular to the axis of the earth and cutting through the centre of the earth."
+    ],
+    "correct_answer": "on the surface of the earth, being a circle whose plane is perpendicular to the axis of the earth and cutting through the centre of the earth.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "GENNAV056",
+    "subject": "General Navigation",
+    "chapter": "General Navigation",
+    "question_text": "An arc of 1 minute of a meridian equals:",
+    "options": [
+      "1 statute mile.",
+      "10 kilometres.",
+      "1 nautical mile.",
+      "1 kilometre."
+    ],
+    "correct_answer": "1 nautical mile.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "GENNAV057",
+    "subject": "General Navigation",
+    "chapter": "General Navigation",
+    "question_text": "Consider the following statements on meridians:",
+    "options": [
+      "The meridians are parallel only at equator.",
+      "The meridians are not of equal length.",
+      "Any two meridians will form a great circle.",
+      "Any two halves great circle will form a meridians."
+    ],
+    "correct_answer": "Any two halves great circle will form a meridians.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "GENNAV058",
+    "subject": "General Navigation",
+    "chapter": "General Navigation",
+    "question_text": "An aircraft is flying around the Earth eastwards along the 60N parallel of latitude at a groundspeed of 240 knots. At what groundspeed would another aircraft have to fly eastwards along the Equator to fly once round the Earth in the same journey time?",
+    "options": [
+      "480 knots.",
+      "120 knots.",
+      "600 knots.",
+      "240 knots."
+    ],
+    "correct_answer": "480 knots.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "GENNAV059",
+    "subject": "General Navigation",
+    "chapter": "General Navigation",
+    "question_text": "Radio bearings:",
+    "options": [
+      "are lines of fixed direction.",
+      "are Rhumb lines.",
+      "are Great circles.",
+      "cut all meridians at the same angle."
+    ],
+    "correct_answer": "are Great circles.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "GENNAV060",
+    "subject": "General Navigation",
+    "chapter": "General Navigation",
+    "question_text": "The inclination of the earths axis of rotation with the plane of the ecliptic:",
+    "options": [
+      "is stable throughout the year.",
+      "is causing the seasons, summer and winter.",
+      "All 3 answers are correct.",
+      "is causing the variation of length of the daylight during a year."
+    ],
+    "correct_answer": "All 3 answers are correct.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "GENNAV061",
+    "subject": "General Navigation",
+    "chapter": "General Navigation",
+    "question_text": "Using latitude and longitude for a place:",
+    "options": [
+      "Relative directions to another place may easily be calculated.",
+      "The distance from this place to another play may be easily calculated.",
+      "The location on the earths surface of this place is defined.",
+      "The direction from the place to any other place may be easily calculated."
+    ],
+    "correct_answer": "The location on the earths surface of this place is defined.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "GENNAV062",
+    "subject": "General Navigation",
+    "chapter": "General Navigation",
+    "question_text": "The highest value of longitude is found:",
+    "options": [
+      "Close to the prime meridian.",
+      "At Greenwich anti meridian.",
+      "Close to the poles.",
+      "Along equator."
+    ],
+    "correct_answer": "At Greenwich anti meridian.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "GENNAV063",
+    "subject": "General Navigation",
+    "chapter": "General Navigation",
+    "question_text": "An aircraft at latitude 02° 20N tracks 180° (T) for 685 km. On completion of the flight the latitude will be:",
+    "options": [
+      "04° 10S.",
+      "04° 30S.",
+      "09° 05S.",
+      "03° 50S."
+    ],
+    "correct_answer": "03° 50S.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "GENNAV064",
+    "subject": "General Navigation",
+    "chapter": "General Navigation",
+    "question_text": "Consider the following statements on the shape of the earth:",
+    "options": [
+      "It is slightly flattened at the poles.",
+      "The longest diameter is between the poles.",
+      "The diameter at the equator is about 60 NM longer than the diameter between the poles.",
+      "The diameters of the earth is the same at all latitudes."
+    ],
+    "correct_answer": "It is slightly flattened at the poles.",
+    "difficulty": "Easy"
+  },
+    {
+    "id": "GENNAV064B",
+    "subject": "General Navigation",
+    "chapter": "General Navigation",
+    "question_text": "What is the standard formula for convergency?",
+    "options": [
+      "Convergency=dlat x sin mean latitude.",
+      "Convergency=dlat x cos mean latitude.",
+      "Convergency=dlong x sin mean latitude.",
+      "Convergency=dlong x cos mean latitude."
+    ],
+    "correct_answer": "Convergency=dlong x sin mean latitude.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "GENNAV065",
+    "subject": "General Navigation",
+    "chapter": "General Navigation",
+    "question_text": "Generally what line lies closer to the pole?",
+    "options": [
+      "The rhumb line or great circle depending on the chart used.",
+      "Equator.",
+      "Great line.",
+      "Rhumb line."
+    ],
+    "correct_answer": "Great line.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "GENNAV066",
+    "subject": "General Navigation",
+    "chapter": "General Navigation",
+    "question_text": "The latitude where the value of convergency is half the value of convergency at 60° N is:",
+    "options": [
+      "25° 39 N",
+      "90° 00 N",
+      "27° 52 N",
+      "30° 00 N"
+    ],
+    "correct_answer": "30° 00 N",
+    "difficulty": "Hard"
+  },
+  {
+    "id": "GENNAV067",
+    "subject": "General Navigation",
+    "chapter": "General Navigation",
+    "question_text": "Given: The coordinates of the heliport at Issy les Moulineaux are: N48° 50 E002° 16.5 The coordinates of the antipodes are:",
+    "options": [
+      "S41° 10 E177° 43.5.",
+      "S48° 50 E177° 43.5.",
+      "S48° 50 W177° 43.5.",
+      "S41° 10 W177° 43.5."
+    ],
+    "correct_answer": "S48° 50 W177° 43.5.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "GENNAV068",
+    "subject": "General Navigation",
+    "chapter": "General Navigation",
+    "question_text": "The suns moves from East to West at a speed of 15° longitude an hour. What ground speed will give you the opportunity to observe the sun due south at all times at 6000N?",
+    "options": [
+      "780 Kt.",
+      "520 Kt.",
+      "450 Kt.",
+      "300 Kt."
+    ],
+    "correct_answer": "450 Kt.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "GENNAV069",
+    "subject": "General Navigation",
+    "chapter": "General Navigation",
+    "question_text": "A great circle is defined as:",
+    "options": [
+      "A circle in any plane on the surface of a sphere.",
+      "A circle on the surface of the sphere, with its plane running perpendicular to the axis of rotation.",
+      "A circle on the surface of a sphere, whose plane is cutting through the centre of the sphere.",
+      "A circle running on the outside of the sphere."
+    ],
+    "correct_answer": "A circle on the surface of a sphere, whose plane is cutting through the centre of the sphere.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "GENNAV070",
+    "subject": "General Navigation",
+    "chapter": "General Navigation",
+    "question_text": "If you want to follow a constant true track value:",
+    "options": [
+      "You must fly a rhumb line.",
+      "You must fly east/west or North/south.",
+      "You, in most cases, will also fly the shortest possible track.",
+      "You must fly a great circle."
+    ],
+    "correct_answer": "You must fly a rhumb line.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "GENNAV071",
+    "subject": "General Navigation",
+    "chapter": "General Navigation",
+    "question_text": "The circumference of the Earth is approximately:",
+    "options": [
+      "5400 nm.",
+      "43200 nm.",
+      "21600 nm.",
+      "10800 nm."
+    ],
+    "correct_answer": "21600 nm.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "GENNAV072",
+    "subject": "General Navigation",
+    "chapter": "General Navigation",
+    "question_text": "Which of the following statements concerning the earths magnetic field is completely correct?",
+    "options": [
+      "The earths magnetic field can be classified as transient semi-permanent or permanent.",
+      "The blue pole of the earths magnetic field is situated in North Canada.",
+      "At the earths magnetic equator, the inclination varies depending on whether the geographic equator is north or south of the magnetic equator.",
+      "Dip is the angle between total magnetic field and vertical field component."
+    ],
+    "correct_answer": "The blue pole of the earths magnetic field is situated in North Canada.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "GENNAV073",
+    "subject": "General Navigation",
+    "chapter": "General Navigation",
+    "question_text": "An aircraft flies the following rhumb line tracks and distances from position 04° 00N 030° 00W: 600 NM South, then 600 NM East, then 600 NM North, then 600 NM West. The final position of the aircraft is:",
+    "options": [
+      "03° 58N 030° 02W",
+      "04° 00N 030° 02W",
+      "04° 00N 029° 58W",
+      "04° 00N 030° 00W"
+    ],
+    "correct_answer": "04° 00N 029° 58W",
+    "difficulty": "Hard"
+  },
+  {
+    "id": "GENNAV074",
+    "subject": "General Navigation",
+    "chapter": "General Navigation",
+    "question_text": "The angle between the plane of the ecliptic and the plane of equator is approximately:",
+    "options": [
+      "25.3° .",
+      "23.5° .",
+      "27.5° .",
+      "66.5° ."
+    ],
+    "correct_answer": "23.5° .",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "GENNAV075",
+    "subject": "General Navigation",
+    "chapter": "General Navigation",
+    "question_text": "Consider the following statements on meridians:",
+    "options": [
+      "All meridians run in true direction from South to North.",
+      "The relative direction between two selected meridians will be constant.",
+      "On the southern hemisphere the meridians run towards the south pole.",
+      "The distance, in nautical miles, between two selected meridians will be constant."
+    ],
+    "correct_answer": "On the southern hemisphere the meridians run towards the south pole.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "GENNAV076",
+    "subject": "General Navigation",
+    "chapter": "General Navigation",
+    "question_text": "Conversion angle is:",
+    "options": [
+      "twice convergency.",
+      "convergency.",
+      "0,5 convergency",
+      "4 times convergency."
+    ],
+    "correct_answer": "0,5 convergency",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "GENNAV077",
+    "subject": "General Navigation",
+    "chapter": "General Navigation",
+    "question_text": "At what approximate date is the earth closest to the sun (perihelion)?",
+    "options": [
+      "Beginning of July.",
+      "End of March.",
+      "End of June.",
+      "Beginning of January."
+    ],
+    "correct_answer": "Beginning of January.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "GENNAV078",
+    "subject": "General Navigation",
+    "chapter": "General Navigation",
+    "question_text": "What is the angle between the plane of the Ecliptic and the plane of the Equator?",
+    "options": [
+      "45° .",
+      "23° .",
+      "0° .",
+      "90°"
+    ],
+    "correct_answer": "23° .",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "GENNAV079",
+    "subject": "General Navigation",
+    "chapter": "General Navigation",
+    "question_text": "What is the initial great circle direction from 45° N 14° 12W to 45° N 12° 48E?",
+    "options": [
+      "86,5° (T)",
+      "80,4° (T)",
+      "090° (M)",
+      "270° (M)"
+    ],
+    "correct_answer": "80,4° (T)",
+    "difficulty": "Hard"
+  },
+  {
+    "id": "GENNAV080",
+    "subject": "General Navigation",
+    "chapter": "General Navigation",
+    "question_text": "In order to fly from position A (10° 00N, 030° 00W) to position B (30° 00N, 050° 00W), maintaining a constant true course, it is necessary to fly:",
+    "options": [
+      "the constant average drift route.",
+      "the great-circle route.",
+      "a straight line plotted on a Lambert chart.",
+      "a rhumb line track."
+    ],
+    "correct_answer": "a rhumb line track.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "GENNAV081",
+    "subject": "General Navigation",
+    "chapter": "General Navigation",
+    "question_text": "What is a line of equal magnetic variation?",
+    "options": [
+      "An isocline.",
+      "An isovar.",
+      "An isogonal.",
+      "An isogriv."
+    ],
+    "correct_answer": "An isogonal.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "GENNAV082",
+    "subject": "General Navigation",
+    "chapter": "General Navigation",
+    "question_text": "Given: Great circle from P to Q measured at P=095° Southern hemisphere Conversion angle P - Q =7° What is the rhumb line track P - Q?",
+    "options": [
+      "102",
+      "088",
+      "109",
+      "081"
+    ],
+    "correct_answer": "088",
+    "difficulty": "Hard"
+  },
+  {
+    "id": "GENNAV083",
+    "subject": "General Navigation",
+    "chapter": "General Navigation",
+    "question_text": "The term Aphelion is used to describe:",
+    "options": [
+      "The situation when the distance between the sun and the earth is at its longest.",
+      "The relative position between the earth and the moon.",
+      "The situation when apparent sun is passing the plane of the Equator.",
+      "The relationship between the length of the day and the length of the night."
+    ],
+    "correct_answer": "The situation when the distance between the sun and the earth is at its longest.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "GENNAV084",
+    "subject": "General Navigation",
+    "chapter": "General Navigation",
+    "question_text": "A line which cuts all meridians at the same angle is called a:",
+    "options": [
+      "Great circle.",
+      "Agonic line.",
+      "Line of variation.",
+      "Rhumb line."
+    ],
+    "correct_answer": "Rhumb line.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "GENNAV085",
+    "subject": "General Navigation",
+    "chapter": "General Navigation",
+    "question_text": "Consider the following statements on departure:",
+    "options": [
+      "As the latitude increases, the departure between two meridians decreases.",
+      "Departure is independent of difference of longitude.",
+      "Departure may be calculated using the equation: departure=Sin Lat. x sin Long.",
+      "As the difference of longitude increases, the departure is constant it the latitude is constant."
+    ],
+    "correct_answer": "As the latitude increases, the departure between two meridians decreases.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "GENNAV086",
+    "subject": "General Navigation",
+    "chapter": "General Navigation",
+    "question_text": "A Great Circle is:",
+    "options": [
+      "a line on the surface of the earth which crosses meridians at a constant angle.",
+      "a line that defines the shortest distance between two points on the surface of the earth.",
+      "always a Great Circle on all charts.",
+      "a straight line joining two points on all charts."
+    ],
+    "correct_answer": "a line that defines the shortest distance between two points on the surface of the earth.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "GENNAV087",
+    "subject": "General Navigation",
+    "chapter": "General Navigation",
+    "question_text": "As seen from an observer on the surface of the earth:",
+    "options": [
+      "the apparent sun is always in the plane of the ecliptic.",
+      "the suns position relative to the stars is fixed throughout the year.",
+      "the sun is in a fixed position relative to the stars.",
+      "the stars will seem to move from west to east during a year."
+    ],
+    "correct_answer": "the apparent sun is always in the plane of the ecliptic.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "GENNAV088",
+    "subject": "General Navigation",
+    "chapter": "General Navigation",
+    "question_text": "The main reason that day and night, throughout the year, have different durations is due to the:",
+    "options": [
+      "earths rotation.",
+      "inclination of the ecliptic to the equator.",
+      "relative speed of the sun along the ecliptic.",
+      "gravitational effect of the Sun and the Moon on the speed of rotation of the Earth."
+    ],
+    "correct_answer": "inclination of the ecliptic to the equator.",
+    "difficulty": "Easy"
+  },
+    {
+    "id": "GENNAV089",
+    "subject": "General Navigation",
+    "chapter": "General Navigation",
+    "question_text": "An RMI indicates aircraft heading. To convert the RMI bearings of NDB’ s and VOR’ s to true bearings the correct combination for the application of magnetic variation is:",
+    "options": [
+      "NDB: aircraft position VOR: aircraft position",
+      "NDB: aircraft position VOR: beacon position",
+      "NDB: beacon position VOR: beacon position",
+      "NDB: beacon position VOR: aircraft position"
+    ],
+    "correct_answer": "NDB: aircraft position VOR: aircraft position",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "GENNAV090",
+    "subject": "General Navigation",
+    "chapter": "General Navigation",
+    "question_text": "An approximate equation for calculation conversion angle is:",
+    "options": [
+      "CA=0,5 x dlong x sin lat.",
+      "CA=dlong x sin Lat. x sin Long.",
+      "CA=0,5 x dlat x sin Lat.",
+      "CA=(dlong-dlat) x 0,5."
+    ],
+    "correct_answer": "CA=0,5 x dlong x sin lat.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "GENNAV092",
+    "subject": "General Navigation",
+    "chapter": "General Navigation",
+    "question_text": "The great circle track X - Y measured at x is 319° , and Y 325° Consider the following statements:",
+    "options": [
+      "Southern hemisphere, Rhumb line track is 322° .",
+      "Northern hemisphere, Rhumb line track is 313° .",
+      "Southern hemisphere, Rhumb line track is 331° .",
+      "Northern hemisphere, Rhumb line track is 322° ."
+    ],
+    "correct_answer": "Southern hemisphere, Rhumb line track is 322° .",
+    "difficulty": "Hard"
+  },
+  {
+    "id": "GENNAV093",
+    "subject": "General Navigation",
+    "chapter": "General Navigation",
+    "question_text": "What does 5 hours 50 minutes and 20 seconds change of longitude represent?",
+    "options": [
+      "80° 05",
+      "81° 25",
+      "87° 35",
+      "35° 15"
+    ],
+    "correct_answer": "87° 35",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "GENNAV094",
+    "subject": "General Navigation",
+    "chapter": "General Navigation",
+    "question_text": "A day is by definition:",
+    "options": [
+      "the period from sunrise to sunset.",
+      "the period in which day flying is authorised.",
+      "the period from morning to evening.",
+      "the period elapsed between two successive transits of a heavenly body."
+    ],
+    "correct_answer": "the period elapsed between two successive transits of a heavenly body.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "GENNAV095",
+    "subject": "General Navigation",
+    "chapter": "General Navigation",
+    "question_text": "Atmospheric refraction:",
+    "options": [
+      "Causes the Sunrise to occur later and the Sunset to occur earlier.",
+      "Causes the Sunrise and the Sunset to occur later.",
+      "Causes the Sunrise and the Sunset to occur earlier.",
+      "Cause the Sunrise to occur earlier and the Sunset to occur later."
+    ],
+    "correct_answer": "Cause the Sunrise to occur earlier and the Sunset to occur later.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "GENNAV096",
+    "subject": "General Navigation",
+    "chapter": "General Navigation",
+    "question_text": "On the 27th of February, at 52° S and 040° E, the sunrise is at 0243 UTC. On the same day, at 52° S and 035° W, the sunrise is at:",
+    "options": [
+      "0743 UTC.",
+      "2143 UTC.",
+      "0243 UTC.",
+      "0523 UTC."
+    ],
+    "correct_answer": "0743 UTC.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "GENNAV097",
+    "subject": "General Navigation",
+    "chapter": "General Navigation",
+    "question_text": "How would you define standard time in relation to Greenwich Mean Time?",
+    "options": [
+      "It is local mean time adjusted for latitude.",
+      "It is local mean time.",
+      "It is another term for UTC.",
+      "It is local mean time adjusted to standard time."
+    ],
+    "correct_answer": "It is local mean time adjusted to standard time.",
+    "difficulty": "Easy"
+  },
+    {
+    "id": "GENNAV098",
+    "subject": "General Navigation",
+    "chapter": "General Navigation",
+    "question_text": "What is the Standard Time in Hawaii when it is 0600 ST on the 16th February in Queensland, Australia? (Note: Assuming Queensland uses AEST (UTC+10) and Hawaii uses HST (UTC-10))",
+    "options": [
+      "1000 ST on the 16th.",
+      "2000 ST on the 15th.",
+      "1000 ST on the 15th.",
+      "1000 ST on the 17th."
+    ],
+    "correct_answer": "1000 ST on the 15th.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "GENNAV099",
+    "subject": "General Navigation",
+    "chapter": "General Navigation",
+    "question_text": "The times given for Sunrise, Sunset, Morning and Evening twilight in the Air Almanac:",
+    "options": [
+      "Are given in LMT.",
+      "Must always be corrected for atmospheric refraction.",
+      "Are given in Standard time.",
+      "Are given in UTC."
+    ],
+    "correct_answer": "Are given in LMT.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "GENNAV100",
+    "subject": "General Navigation",
+    "chapter": "General Navigation",
+    "question_text": "Assuming mid-latitudes (40° to 50° N/S). At which time of year is the relationship between the length of day and night, as well as the rate of change of declination of the sun, changing at the greatest rate?",
+    "options": [
+      "Winter solstice and autumn equinox.",
+      "Spring equinox and autumn equinox.",
+      "Summer solstice and spring equinox.",
+      "Summer solstice and winter solstice."
+    ],
+    "correct_answer": "Spring equinox and autumn equinox.",
+    "difficulty": "Medium"
+  },
+   {
+    "id": "GENNAV111",
+    "subject": "General Navigation",
+    "chapter": "General Navigation",
+    "question_text": "In its path around the Sun, the axis of the Earth has an inclination:",
+    "options": [
+      "varying with the season of the year.",
+      "of 23º 27 with the plane of Equator.",
+      "of 66º 33 with the plane of the path.",
+      "varying between zero and 23° 27 with the plane of the pat."
+    ],
+    "correct_answer": "of 66º 33 with the plane of the path.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "GENNAV112",
+    "subject": "General Navigation",
+    "chapter": "General Navigation",
+    "question_text": "Observed from a position on the surface of the Earth the heavenly bodies seems to:",
+    "options": [
+      "move from East to West.",
+      "move from East to West on the northern hemisphere.",
+      "move from West to East on the southern hemisphere.",
+      "not change their relative positions on the sky."
+    ],
+    "correct_answer": "move from East to West.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "GENNAV113",
+    "subject": "General Navigation",
+    "chapter": "General Navigation",
+    "question_text": "Which of the following statements concerning ionospheric propagation errors is true?",
+    "options": [
+      "Transmitting the state of the ionosphere to the receivers enables the error to reduced to less than one metre.",
+      "They are significantly reduced by the use of RAIM.",
+      "They are eliminated using differential techniques.",
+      "They are significantly reduced when a second frequency is available."
+    ],
+    "correct_answer": "They are significantly reduced when a second frequency is available.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "GENNAV114",
+    "subject": "General Navigation",
+    "chapter": "General Navigation",
+    "question_text": "The mean sun:",
+    "options": [
+      "Has a declination equal to the apparent sun.",
+      "Is only of interest to users of astronomical navigation.",
+      "Moves with constant speed along the celestial equator.",
+      "Is the middle position of the sun."
+    ],
+    "correct_answer": "Moves with constant speed along the celestial equator.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "GENNAV115",
+    "subject": "General Navigation",
+    "chapter": "General Navigation",
+    "question_text": "What is the highest latitude listed below at which the sun will reach an altitude of 90° above the horizon at some time during the year?",
+    "options": [
+      "45°",
+      "23°",
+      "0°",
+      "66°"
+    ],
+    "correct_answer": "23°",
+    "difficulty": "Easy"
+  },
+    {
+    "id": "GENNAV116",
+    "subject": "General Navigation",
+    "chapter": "General Navigation",
+    "question_text": "The length of a apparent solar day is not constant because:",
+    "options": [
+      "The plane of the Ecliptic and the plane of the Equator are inclined to each other.",
+      "The Suns declination is not constant.",
+      "The Earths speed of rotation is not the same at all latitudes.",
+      "The Earths speed of revolution in its orbit varies continuously, due to the orbit being elliptical."
+    ],
+    "correct_answer": "The Earths speed of revolution in its orbit varies continuously, due to the orbit being elliptical.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "GENNAV117",
+    "subject": "General Navigation",
+    "chapter": "General Navigation",
+    "question_text": "At what approximate date is the earth furthest from the sun (aphelion)?",
+    "options": [
+      "Beginning of January.",
+      "End of December.",
+      "Beginning of July.",
+      "End of September."
+    ],
+    "correct_answer": "Beginning of July.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "GENNAV118",
+    "subject": "General Navigation",
+    "chapter": "General Navigation",
+    "question_text": "Seasons are due to the:",
+    "options": [
+      "Earths elliptical orbit around the Sun.",
+      "inclination of the polar axis with the ecliptic plane.",
+      "variable distance between Earth and Sun.",
+      "Earths rotation on its polar axis."
+    ],
+    "correct_answer": "inclination of the polar axis with the ecliptic plane.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "GENNAV119",
+    "subject": "General Navigation",
+    "chapter": "General Navigation",
+    "question_text": "The suns declination is:",
+    "options": [
+      "The suns position relative to the ecliptic.",
+      "The distance between the sun and the horizon.",
+      "The angular distance between the sun and the celestial North Pole.",
+      "The suns position relative to the plane of the Equator."
+    ],
+    "correct_answer": "The suns position relative to the plane of the Equator.",
+    "difficulty": "Medium"
+  },
+    {
+    "id": "GENNAV120",
+    "subject": "General Navigation",
+    "chapter": "General Navigation",
+    "question_text": "When the length of the day is measured with reference to the passage of the apparent sun:",
+    "options": [
+      "The length of the day will wary in the course of the year.",
+      "The length of the day will be the same once every month.",
+      "The length of the day will vary with the latitude of the observer.",
+      "The length of the days, as indicated by our watches, will be exactly equal."
+    ],
+    "correct_answer": "The length of the day will wary in the course of the year.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "GENNAV121",
+    "subject": "General Navigation",
+    "chapter": "General Navigation",
+    "question_text": "The term sidereal is used:",
+    "options": [
+      "to describe how two positions of heavenly bodies are located sideways on the sky.",
+      "to describe a situation or relationship concerning the stars.",
+      "to describe conditions with reference to the moon.",
+      "to describe the time interval between two successive transits of the real apparent sun at the same meridian."
+    ],
+    "correct_answer": "to describe a situation or relationship concerning the stars.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "GENNAV122",
+    "subject": "General Navigation",
+    "chapter": "General Navigation",
+    "question_text": "Sun rise at 50° N 072° E is at 0254 on 25th January. What time will the sun rise at 50° N 007° E on that day?",
+    "options": [
+      "0254 UTC",
+      "0714 UTC",
+      "0514 UTC",
+      "2154 UTC"
+    ],
+    "correct_answer": "0714 UTC",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "GENNAV123",
+    "subject": "General Navigation",
+    "chapter": "General Navigation",
+    "question_text": "The angle between the true great-circle track and the true rhumb-line track joining the following points: A (60° S 165° W) B (60° S 177° E), at the place of departure A, is:",
+    "options": [
+      "9°",
+      "5.2°",
+      "15.6°",
+      "7.8°"
+    ],
+    "correct_answer": "7.8°",
+    "difficulty": "Hard"
+  },
+  {
+    "id": "GENNAV124",
+    "subject": "General Navigation",
+    "chapter": "General Navigation",
+    "question_text": "An aircraft departing A(N40º 00´ E080º 00´ ) flies a constant true track of 270º at a ground speed of 120 kt. What are the coordinates of the position reached in 6 HR?",
+    "options": [
+      "N40º 00´ E060º 00´ .",
+      "N40º 00´ E064º 20´ .",
+      "N40º 00´ E070º 30´ .",
+      "N40º 00´ E068º 10´ ."
+    ],
+    "correct_answer": "N40º 00´ E068º 10´ .",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "GENNAV125",
+    "subject": "General Navigation",
+    "chapter": "General Navigation",
+    "question_text": "The total length of the 30° Latitude is:",
+    "options": [
+      "10.800 km",
+      "10.800 nm",
+      "18.706 nm",
+      "18.706 km"
+    ],
+    "correct_answer": "18.706 nm",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "GENNAV126",
+    "subject": "General Navigation",
+    "chapter": "General Navigation",
+    "question_text": "An agonic line joins places of:",
+    "options": [
+      "equal magnetic deviation.",
+      "zero magnetic variation.",
+      "equal magnetic variation.",
+      "equal horizontal force H."
+    ],
+    "correct_answer": "zero magnetic variation.",
+    "difficulty": "Easy"
+  },
+    {
+    "id": "GENNAV127",
+    "subject": "General Navigation",
+    "chapter": "General Navigation",
+    "question_text": "At the magnetic equator:",
+    "options": [
+      "the isogonal is an agonic line.",
+      "dip is zero.",
+      "deviation is zero.",
+      "variation is zero."
+    ],
+    "correct_answer": "dip is zero.",
+    "difficulty": "Easy"
+  },
+    {
+    "id": "GENNAV129",
+    "subject": "General Navigation",
+    "chapter": "General Navigation",
+    "question_text": "When turning right from 330° (C) to 040° (C) in the northern hemisphere, the reading of a direct reading magnetic compass will:",
+    "options": [
+      "over-indicate the turn and liquid swirl will decrease the effect.",
+      "under-indicate the turn and liquid swirl will increase the effect.",
+      "under-indicate the turn and liquid swirl will decrease the effect.",
+      "over-indicate the turn and liquid swirl will increase the effect."
+    ],
+    "correct_answer": "over-indicate the turn and liquid swirl will increase the effect.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "GENNAV130",
+    "subject": "General Navigation",
+    "chapter": "General Navigation",
+    "question_text": "Variation in a position is 13W, and True track is 136° . Consider the following statements:",
+    "options": [
+      "The magnetic track is 149° .",
+      "Looking north from this position, the magnetic North pole seems to be located to the East of the true north pole.",
+      "The compass track is 149° .",
+      "The position most likely is located at northern latitudes and on eastern longitudes."
+    ],
+    "correct_answer": "The magnetic track is 149° .",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "GENNAV132",
+    "subject": "General Navigation",
+    "chapter": "General Navigation",
+    "question_text": "Deviation is:",
+    "options": [
+      "a correction to be added to compass heading to obtain magnetic heading.",
+      "an error to be added to compass heading to obtain magnetic heading.",
+      "an error to be added to magnetic headings.",
+      "a correction to be added to magnetic heading to obtain compass heading."
+    ],
+    "correct_answer": "an error to be added to compass heading to obtain magnetic heading.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "GENNAV133",
+    "subject": "General Navigation",
+    "chapter": "General Navigation",
+    "question_text": "An isogonal:",
+    "options": [
+      "is a line running through all positions having the same magnetic inclination.",
+      "is a line on the surface of the Earth, running through all positions having the same magnetic latitude.",
+      "is a line running through all positions having the same magnetic longitude.",
+      "is a line running through all positions having the same variation."
+    ],
+    "correct_answer": "is a line running through all positions having the same variation.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "GENNAV134",
+    "subject": "General Navigation",
+    "chapter": "General Navigation",
+    "question_text": "Dip:",
+    "options": [
+      "is the angle between the vertical and a freely suspended magnet influenced by the earths magnetic field.",
+      "is the angle between the horizontal and magnetic north.",
+      "is the angle between the horizontal and a freely suspended magnet influenced by the earths magnetic field.",
+      "is the angle between the compass needle and magnetic north."
+    ],
+    "correct_answer": "is the angle between the horizontal and a freely suspended magnet influenced by the earths magnetic field.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "GENNAV135",
+    "subject": "General Navigation",
+    "chapter": "General Navigation",
+    "question_text": "The angle between True North and Magnetic North is called:",
+    "options": [
+      "deviation.",
+      "variation.",
+      "compass error.",
+      "drift."
+    ],
+    "correct_answer": "variation.",
+    "difficulty": "Easy"
+  },
+    {
+    "id": "GENNAV136",
+    "subject": "General Navigation",
+    "chapter": "General Navigation",
+    "question_text": "What is the value of magnetic dip at the South Magnetic Pole?",
+    "options": [
+      "090°",
+      "360°",
+      "0°",
+      "180°"
+    ],
+    "correct_answer": "090°",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "GENNAV137",
+    "subject": "General Navigation",
+    "chapter": "General Navigation",
+    "question_text": "Consider the following statements on magnetic variation:",
+    "options": [
+      "The largest values of variation are found along the anti meridians of the Magnetic poles.",
+      "Variation will never exceed 90° .",
+      "Variation will always increase when the total strength of the terrestrial magnetic field increases.",
+      "The variation is east when True North seems to be located west of Magnetic North."
+    ],
+    "correct_answer": "The variation is east when True North seems to be located west of Magnetic North.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "GENNAV138",
+    "subject": "General Navigation",
+    "chapter": "General Navigation",
+    "question_text": "The total Magnetic Force of the terrestrial magnetic field:",
+    "options": [
+      "will be stronger at higher altitudes because the attenuation is less at high altitudes.",
+      "is strongest at the magnetic poles.",
+      "is horizontal in all positions on the surface of the Earth.",
+      "is vertical at the magnetic equator."
+    ],
+    "correct_answer": "is strongest at the magnetic poles.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "GENNAV139",
+    "subject": "General Navigation",
+    "chapter": "General Navigation",
+    "question_text": "What are isogrivs?",
+    "options": [
+      "Lines of equal magnetic dip.",
+      "Lines of equal magnetic grivation.",
+      "Lines of equal deviation.",
+      "Lines of equal variation."
+    ],
+    "correct_answer": "Lines of equal magnetic grivation.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "GENNAV140",
+    "subject": "General Navigation",
+    "chapter": "General Navigation",
+    "question_text": "A direct Mercator graticule is based on a projection that is:",
+    "options": [
+      "spherical.",
+      "concentric.",
+      "conical.",
+      "cylindrical."
+    ],
+    "correct_answer": "cylindrical.",
+    "difficulty": "Easy"
+  },
+    {
+    "id": "GENNAV141",
+    "subject": "General Navigation",
+    "chapter": "General Navigation",
+    "question_text": "On a direct Mercator projection, the distance measured between two meridians spaced 5° apart at latitude 60° N is 8cm. The scale of this chart at latitude 60° N approximately:",
+    "options": [
+      "1 : 3 500 000",
+      "1 : 6 000 000",
+      "1 : 7 000 000",
+      "1 : 4 750 000"
+    ],
+    "correct_answer": "1 : 3 500 000",
+    "difficulty": "Hard"
+  },
+  {
+    "id": "GENNAV142",
+    "subject": "General Navigation",
+    "chapter": "General Navigation",
+    "question_text": "On a transverse Mercator chart, the scale is exactly correct along the:",
+    "options": [
+      "prime meridian and the equator.",
+      "equator and parallel of origin.",
+      "meridians of tangency.",
+      "meridian of tangency and the parallel of latitude perpendicular to it."
+    ],
+    "correct_answer": "meridians of tangency.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "GENNAV143",
+    "subject": "General Navigation",
+    "chapter": "General Navigation",
+    "question_text": "On a Transverse Mercator chart, scale is exactly correct along the:",
+    "options": [
+      "meridian of tangency.",
+      "datum meridian and meridian perpendicular to it.",
+      "Equator, parallel of origin and prime vertical.",
+      "prime meridian and the equator."
+    ],
+    "correct_answer": "meridian of tangency.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "GENNAV144",
+    "subject": "General Navigation",
+    "chapter": "General Navigation",
+    "question_text": "Scale on a Lamberts conformal chart is:",
+    "options": [
+      "constant over the whole chart.",
+      "varies with latitude and longitude.",
+      "constant along a meridian of longitude.",
+      "constant along a parallel of latitude."
+    ],
+    "correct_answer": "constant along a parallel of latitude.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "GENNAV145",
+    "subject": "General Navigation",
+    "chapter": "General Navigation",
+    "question_text": "An Oblique Mercator projection is used specifically to produce:",
+    "options": [
+      "radio navigational charts in equatorial regions.",
+      "topographical maps of large east/ west extent.",
+      "plotting charts in equatorial regions.",
+      "charts of the great circle route between two points."
+    ],
+    "correct_answer": "charts of the great circle route between two points.",
+    "difficulty": "Medium"
+  },
+    {
+    "id": "GENNAV146",
+    "subject": "General Navigation",
+    "chapter": "General Navigation",
+    "question_text": "On a Transverse Mercator Chart scale is assumed to be constant within:",
+    "options": [
+      "300 nm of the Central Meridian",
+      "300 nm of the Poles",
+      "200 nm of the Poles",
+      "300 nm of the Parallel of Tangency"
+    ],
+    "correct_answer": "300 nm of the Central Meridian",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "GENNAV147",
+    "subject": "General Navigation",
+    "chapter": "General Navigation",
+    "question_text": "Transverse Mercator projections are used for:",
+    "options": [
+      "maps of large east/west extent in equatorial areas.",
+      "plotting charts in equatorial areas.",
+      "maps of large north/south extent.",
+      "radio navigation charts in equatorial areas."
+    ],
+    "correct_answer": "maps of large north/south extent.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "GENNAV148",
+    "subject": "General Navigation",
+    "chapter": "General Navigation",
+    "question_text": "On a Lambert conformal conic chart the quoted scale is correct:",
+    "options": [
+      "in the area between the standard parallels.",
+      "along the parallel of origin.",
+      "along the two standard parallels.",
+      "along the prime meridian."
+    ],
+    "correct_answer": "along the parallel of origin.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "GENNAV149",
+    "subject": "General Navigation",
+    "chapter": "General Navigation",
+    "question_text": "What is the most common use for an oblique Mercator chart?",
+    "options": [
+      "Maps of equatorial areas only.",
+      "Selected great circle routes.",
+      "Topographical maps of the British Isles.",
+      "Polar routes."
+    ],
+    "correct_answer": "Selected great circle routes.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "GENNAV150",
+    "subject": "General Navigation",
+    "chapter": "General Navigation",
+    "question_text": "The chart that is generally used for navigation in polar areas is based on a:",
+    "options": [
+      "Direct Mercator projection.",
+      "Stereographical projection.",
+      "Gnomonic projection.",
+      "Lambert conformal projection."
+    ],
+    "correct_answer": "Stereographical projection.",
+    "difficulty": "Medium"
+  }
+]
